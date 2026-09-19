@@ -1,5 +1,5 @@
-baseURL: https://brickup.de/
-title: brickup
+baseURL: https://renate.buckdahn.de/
+title: Renate Buckdahn
 theme: ["hugo-video", "PaperMod"]
 
 locale: de
@@ -28,19 +28,14 @@ outputs:
     - JSON
 
 taxonomies:
-  author: author
-  category: categories
   tag: tags
   colour: colours
 
+permalinks:
+  blog: /:year/:slug/
+
 menu:
   main:
-    - name: Tobias
-      url: /author/tobias-buckdahn/
-      weight: 13
-    - name: Renate
-      url: /author/renate-buckdahn/
-      weight: 16
     - name: Suche
       url: search/
       weight: 90
@@ -48,10 +43,10 @@ menu:
 params:
   env: production
 
-  title: Brickup
-  description: "Kreativität, IT und Selbstironie"
-  keywords: [Blog, LEGO, Arduino, Hugo, PaperMod]
-  author: Tobias Buckdahn
+  title: Renate Buckdahn
+  description: "Meine LEGO-Modelle"
+  keywords: [Blog, LEGO]
+  author: Renate Buckdahn
 
   DateFormat: "02.01.2006"
   defaultTheme: auto # dark, light
@@ -84,32 +79,10 @@ params:
   footer:
     text: "[Impressum](/impressum) | [Datenschutz](/datenschutz)"
 
-  homeInfoParams:
-    Title: "Familie Buckdahn"
-    Content: >
-      Kreativität, IT und Selbstironie - viel Spaß beim Stöbern :)
-
   label:
-    text: "brickup"
+    text: "Renate"
     icon: "favicon-32x32.png"
     iconHeight: "32"
-
-  socialIcons:
-    - name: brickcamp
-      title: "BrickCamp, ein Nachschlagewerk für LEGO® Bautechniken"
-      url: "https://brick.camp/de"
-    - name: bluesky
-      title: "@brickup-de auf BlueSky"
-      url: "https://bsky.app/profile/brickup-de.bsky.social"
-    - name: github
-      title: "@brickup-de auf Github"
-      url: "https://github.com/brickup-de"
-    - name: flickr
-      title: "@brickbucki auf Flickr"
-      url: "https://www.flickr.com/photos/brickbucki"
-    - name: kofi
-      title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/brickup"
 
   fuseOpts:
     isCaseSensitive: false

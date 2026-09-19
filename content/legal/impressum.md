@@ -18,7 +18,7 @@ Der folgende Text ist zur rechtlichen Absicherung des Webseitenautors nötig. Er
 {{< hidden "MTQwNTI"  "gQmV"   "ybGlu" >}}  
 {{< hidden "aW5mb0Bi" "cmlja3" "VwLmRl" >}}
 
-Brickup.de ist ein Hobby meinerseits und wird nicht geschäftlich betrieben.
+Renate.buckdahn.de ist ein Hobby und wird nicht geschäftlich betrieben. Betreiber der Seite ist Tobias Buckdahn.
 
 ### 1\. Inhalt des Onlineangebots
 

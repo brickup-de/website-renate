@@ -1,6 +1,10 @@
 :root {
-  --theme: rgb(255, 165, 49);
+  --theme: rgb(165, 111, 190);
 }
+:root[data-theme=dark] {
+  --theme: rgb(33, 5, 44);
+}
+
 body {
   background: var(--theme) !important;
 }
