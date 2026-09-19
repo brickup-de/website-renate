@@ -5,12 +5,14 @@ colours:
   - grau
   - schwarz
   - weiß
+  - grün
 cover:
   image: cover.jpg
 date: "2026-09-06"
 tags:
   - lego
   - skulptur
+  - halloween
 title: Kürbisfest
 url: /2026/kürbisfest
 ---
