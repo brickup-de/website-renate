@@ -36,6 +36,9 @@ permalinks:
 
 menu:
   main:
+    - name: Familie
+      url: https://buckdahn.de
+      weight: 10
     - name: Suche
       url: search/
       weight: 90
