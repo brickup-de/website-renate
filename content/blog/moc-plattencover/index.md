@@ -13,7 +13,7 @@ title: Plattencover
 url: /2025/plattencover
 ---
 
-Für den 13. Berliner SteineWAHN! gab es folgende Bauaktion: Baue ein bekanntes Plattencover auf einer Fläche von 16x16 Noppen nach. Viel Spaß beim Raten.
+Für den 14. Berliner SteineWAHN! gab es folgende Bauaktion: Baue ein bekanntes Plattencover auf einer Fläche von 16x16 Noppen nach. Viel Spaß beim Raten.
 
 ## 1. Rätsel
 [![](plattencover-01.jpg)](plattencover-01.jpg)
@@ -47,7 +47,7 @@ Rolling Stones: Voodoo Lounge Uncut
 [![](plattencover-05.jpg)](plattencover-05.jpg)
 
 {{< spoiler "Auflösung" >}}
-Foreigner: Agent Provacateur
+Foreigner: Agent Provocateur
 {{< /spoiler >}}
 
 ## 6. Rätsel

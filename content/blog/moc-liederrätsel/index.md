@@ -13,7 +13,7 @@ title: Lieder raten
 url: /2021/liederrätsel
 ---
 
-Für einen Bauwettbewerb beim SteineWAHN! 2021 hat meine Mutter folgende kleinen Modelle gebaut. Sie stellen jeweils ein bekanntes Lied dar.
+Für einen Bauwettbewerb beim SteineWAHN! 2021 habe ich folgende kleinen Modelle gebaut. Sie stellen jeweils ein bekanntes Lied dar.
 
 ## 1. Rätsel
 [![](Bild1.jpg)](Bild1.jpg)

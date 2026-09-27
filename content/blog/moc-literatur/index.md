@@ -13,7 +13,7 @@ title: Literatur-Rätsel
 url: /2019/literatur
 ---
 
-Für einen Bauwettbewerb beim [SteineWAHN!](https://steinewahn.de) hat meine Mutter Miniaturen von bekannten literarischen Werken gebaut. Viel Spaß beim Raten.
+Für einen Bauwettbewerb beim [SteineWAHN!](https://steinewahn.de) habe ich Miniaturen von bekannten literarischen Werken gebaut. Viel Spaß beim Raten.
 
 ## 1. Rätsel
 [![](literatur-1.jpg)](literatur-1.jpg)
@@ -33,7 +33,7 @@ Robinson Crusoe | Daniel Defoe
 [![](literatur-3.jpg)](literatur-3.jpg)
 
 {{< spoiler "Auflösung" >}}
-Krieg und Frieden | Lew Tolstois
+Krieg und Frieden | Lew Tolstoi
 {{< /spoiler >}}
 
 ## 4. Rätsel

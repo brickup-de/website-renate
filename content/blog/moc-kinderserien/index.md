@@ -12,10 +12,12 @@ tags:
   - rätsel
   - tier
 title: Kinderserien
-url: /2020/kinderlieder
+url: /2020/kinderserien
+aliases: 
+  - /2020/kinderlieder
 ---
 
-Beim 9. Berliner [SteineWAHN!](https://steinewahn.de) wurden Kinder-TV-Serien zum Erraten für die Besucher gebaut. Meine Mutter hat sieben Beiträge dafür gebaut - viel Spaß beim Rätseln.
+Beim 9. Berliner [SteineWAHN!](https://steinewahn.de) wurden Kinder-TV-Serien zum Erraten für die Besucher gebaut. Ich habe sieben Beiträge dafür gebaut - viel Spaß beim Rätseln.
 
 ## 1. Rätsel
 [![](kinder-1.jpg)](kinder-1.jpg)

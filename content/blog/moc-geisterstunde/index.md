@@ -13,6 +13,7 @@ tags:
   - lego
   - skulptur
   - tier
+  - halloween
 url: /2023/geisterstunde
 ---
 

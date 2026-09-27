@@ -16,8 +16,6 @@ title: Die Skelettons
 url: /2016/skelettons
 ---
 
-Hier ein Gastbeitrag von meiner Mutter, die ebenfalls fleißig Skulpturen baut - ich lasse mal einfach die Bilder für sich sprechen ;-)
-
 [![](IMG_2419.jpg)](IMG_2419.jpg)
 [![](IMG_2427.jpg)](IMG_2427.jpg)
 

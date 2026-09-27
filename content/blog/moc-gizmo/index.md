@@ -11,11 +11,12 @@ date: "2017-10-06T14:38:28+00:00"
 tags:
   - lego
   - skulptur
+  - tier
 title: Gizmo
 url: /2017/gizmo
 ---
 
-Hier präsentiere ich euch **Gizmo von den Gremlins** \- gebaut von meiner Mutter.
+Hier präsentiere ich euch **Gizmo von den Gremlins**.
 Achtung: Er darf nicht mit Wasser in Berührung kommen! :-D
 
 [![](IMG_3404.jpg)](IMG_3404.jpg)

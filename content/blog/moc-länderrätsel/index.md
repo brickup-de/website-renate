@@ -14,7 +14,7 @@ title: Länderrätsel
 url: /2023/länderrätsel
 ---
 
-Eine weitere Bauaktion, dieses Mal auf dem 12. Berliner [SteineWAHN!](https://steinewahn.de). Dieses Mal mussten Länder auf einer 16x16-Platte dargestellt und durch die Besucher erraten werden. Viel Spaß beim Erraten der dargestellten Länder.
+Eine weitere Bauaktion auf dem 12. Berliner [SteineWAHN!](https://steinewahn.de). Dieses Mal mussten Länder auf einer 16x16-Platte dargestellt und durch die Besucher erraten werden. Viel Spaß beim Erraten der dargestellten Länder.
 
 ## 1. Rätsel
 [![](land-01.jpg)](land-01.jpg)

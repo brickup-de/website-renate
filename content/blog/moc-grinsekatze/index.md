@@ -14,7 +14,7 @@ title: Grinsekatze
 url: /2018/grinsekatze
 ---
 
-Eine Skulptur aus Alice im Wunderland, gebaut von meiner Mutter. Als Vorbild diente die entsprechende Minifigur von Lego.
+Eine Skulptur aus Alice im Wunderland. Als Vorbild diente die entsprechende Minifigur von Lego.
 
 [![](katze-6.jpg)](katze-6.jpg)
 [![](katze-3.jpg)](katze-3.jpg)

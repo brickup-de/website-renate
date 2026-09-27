@@ -15,7 +15,7 @@ title: Kinderlieder
 url: /2022/kinderlieder
 ---
 
-Beim 11. Berliner [SteineWAHN!](https://steinewahn.de) gab es wieder eine gemeinsame Bauaktion. Dieses Mal mussten Kinderlieder auf einer 16x16-Platte dargestellt und durch die Besucher erraten werden. Meine Mutter hat neun Beiträge dafür gebaut - viel Spaß beim Rätseln.
+Beim 11. Berliner [SteineWAHN!](https://steinewahn.de) gab es wieder eine gemeinsame Bauaktion. Dieses Mal mussten Kinderlieder auf einer 16x16-Platte dargestellt und durch die Besucher erraten werden. Ich habe neun Beiträge dafür gebaut - viel Spaß beim Rätseln.
 
 ## 1. Rätsel
 [![](kinderlied-01.jpg)](kinderlied-01.jpg)

@@ -15,7 +15,7 @@ title: Donald Duck
 url: /2017/donald-duck
 ---
 
-Aus der Disney-Maxifig-Serie meiner Mutter folgt hier: **Donald Duck** :)
+Aus meiner Disney-Maxifig-Serie folgt hier: **Donald Duck** :)
 
 [![Donald Duck](IMG_3357.jpg)](IMG_3357.jpg) [![Donald Duck](IMG_3368.jpg)](IMG_3368.jpg)
 
